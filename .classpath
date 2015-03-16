@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/Jar/jxl.jar" sourcepath="D:/Users/shan1/.m2/repository/net/sourceforge/jexcelapi/jxl/2.6.12/jxl-2.6.12-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Jar/google-api-spelling-java-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jar/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Jar/jazzy-applet.jar"/>
+	<classpathentry kind="lib" path="D:/Jar/selenium-java-2.40.0.jar"/>
+	<classpathentry kind="lib" path="D:/Jar/selenium-server-standalone-2.40.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
